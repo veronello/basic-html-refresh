@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Moving Dot</title>
+</head>
+<body>
+    <marquee>●</marquee>
+</body>
+</html>
