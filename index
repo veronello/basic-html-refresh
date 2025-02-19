@@ -4,6 +4,10 @@
     <title>Moving Dot</title>
 </head>
 <body>
-    <marquee>●</marquee>
+
+    <pre>
+        O
+    </pre>
+
 </body>
 </html>
